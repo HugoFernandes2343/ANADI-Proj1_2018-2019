@@ -1,0 +1,29 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1554895262300.000,
+    "dirty" : false,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "3C3B8E2A",
+    "lastKnownWriteTime" : 29555293467770995,
+    "last_content_update" : 1554895262300,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "cacheKey" : "F1887C4C",
+        "caption" : "Glovo_intuitiva",
+        "contentUrl" : "grid_resource/gridviewer.html?env=&obj=Glovo_intuitiva&cache_key=F1887C4C",
+        "displayedObservations" : 11,
+        "environment" : "",
+        "object" : "Glovo_intuitiva",
+        "preview" : 0,
+        "totalObservations" : 11,
+        "variables" : 1
+    },
+    "relative_order" : 4,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_dataframe"
+}

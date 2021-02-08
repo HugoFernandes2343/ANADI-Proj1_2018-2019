@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1554814670174.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "12|25|42|0|\n43|21|74|0|\n75|22|103|0|\n104|21|133|0|\n134|22|141|0|\n172|50|200|0|\n201|47|223|0|\n277|26|284|0|\n285|52|313|0|\n314|50|342|0|\n343|47|364|0|\n388|46|416|0|\n",
+    "hash" : "1966819027",
+    "id" : "82E0ADCF",
+    "lastKnownWriteTime" : 1554829341,
+    "last_content_update" : 1554902460621,
+    "path" : "E:/Faculdade/ANADI/Usabilidade/UsabilidadeCodigo.R",
+    "project_path" : "UsabilidadeCodigo.R",
+    "properties" : {
+        "cursorPosition" : "1,0",
+        "scrollLine" : "0",
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
